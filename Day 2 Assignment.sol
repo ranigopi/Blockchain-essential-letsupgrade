@@ -14,6 +14,6 @@ value = newvalue;
 location = newlocation;
 }
 function getdetails() public view return(string,string,string){
-return (owner,value, location);
+returns(owner,value, location);
 }
 }
